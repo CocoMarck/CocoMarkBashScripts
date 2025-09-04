@@ -1,0 +1,70 @@
+# Todas las aplicaciones esenciales, para uso genaral, sin imporar el Desktop.
+
+# Instalar con: `grep -vE '^#|^$' debian13-apt-backup.txt | xargs sudo apt install -y`
+# El `-y` es para que decir que si a todo.
+# Agregar compatibilidad con x86, y repos no libres. `sudo dpkg --add-architecture i386`
+
+
+
+
+# Proyectos open source, el git para los clone jejej
+git
+
+# Cliente Email
+thunderbird
+thunderbird-l10n-es-mx
+
+# Redes soociales | Internet
+firefox-esr
+
+# Estadisticas
+htop
+fastfetch
+mangohud:i386
+mangohud
+cpu-x
+baobab
+
+# Torrents
+transmission
+
+# Almacenamiento
+gparted
+
+
+# Texto Emojis
+fonts-recommended
+fonts-noto-color-emoji
+node-emojis-list
+fonts-symbola
+fonts-noto
+fonts-noto-mono
+
+# Texto Microsoft Windows fonts
+ttf-mscorefonts-installer
+
+
+# Video
+haruna
+
+# Video Codecs
+libavcodec-extra
+gstreamer1.0-libav
+gstreamer1.0-plugins-good
+gstreamer1.0-plugins-bad
+gstreamer1.0-plugins-ugly
+
+
+# Limpiador
+bleachbit
+
+
+# Compresor | Comprimir
+p7zip-full
+p7zip-rar
+unrar
+
+
+# Lenguaje
+task-spanish
+

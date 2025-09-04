@@ -1,0 +1,12 @@
+# KDE aparence, mejor integracion
+breeze-gtk-theme
+adwaita-qt
+adwaita-qt6
+libadwaitaqt6-dev
+libadwaitaqt1
+breeze-gtk-theme
+oxygen-icon-theme
+arc-kde
+qt5-style-kvantum
+plasma-theme-oxygen
+kwin-decoration-oxygen

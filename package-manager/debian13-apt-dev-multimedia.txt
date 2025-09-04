@@ -1,0 +1,7 @@
+# Desarrollo Multimedia
+gimp
+blender
+audacity
+lmms
+ffmpeg
+gnome-sound-recorder

@@ -1,0 +1,34 @@
+# Desintalar con: `grep -vE '^#|^$' debian13-apt-remove-apps.txt | xargs sudo apt purge -y`
+
+# KDE Plasma | Email
+kmail
+kaddressbook
+
+# KDE PLasma | Navegador web; file manager
+konqueror
+
+# Dict
+goldendict-ng
+kasumi
+
+# Music
+juk
+audacious
+
+# KDE Plasma | Video
+dragonplayer
+
+# KDE Plasma | Limpiador
+sweeper
+
+# Desarrollo
+idle-python3.13
+
+# Terminales locas
+xiterm+thai
+
+# Teclado
+mozc-data
+mozc-server
+uim
+anthy

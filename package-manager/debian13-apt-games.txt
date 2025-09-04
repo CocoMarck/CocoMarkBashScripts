@@ -1,0 +1,8 @@
+# Wine moment
+winetricks
+lutris
+
+
+# Minecraft Java 
+default-jdk
+openjfx
